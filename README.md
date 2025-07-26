@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm S U J I N ! 👋
 
-<!--
-**sujinram04/sujinram04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student passionate about technology and creativity**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- Currently exploring the world of code and design as a student.
+- Tech enthusiast with a love for **art** and creative expression.
+- Always eager to learn, collaborate, and build something impactful!
+
+## 🛠️ Skills
+
+- **Languages:** HTML, CSS, JavaScript, C, C++
+- **Interests:** Web development, programming, digital art
+
+## 🎨 Hobbies
+
+- Creating art and exploring new media
+- Blending creativity with technology
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sujinram)
+- Instagram: *(add your username here or let me know if you want it linked!)*
+
+---
+
+> “Art and code are both ways to create something beautiful.”
+
+Thanks for visiting! 🚀
