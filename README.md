@@ -23,7 +23,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sujinram)
-- Instagram: *(add your username here or let me know if you want it linked!)*
+- Instagram:(https://www.instagram.com/sujinram04?igsh=bmRuM3cwcTlvMGhv)
 
 ---
 
