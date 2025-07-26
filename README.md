@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 
 - **Languages:** HTML, CSS, JavaScript, C, C++
-- **Interests:** Web development, programming, digital art
+- **Interests:** Web development, programming,art
 
 ## 🎨 Hobbies
 
@@ -23,7 +23,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sujinram)
-- Instagram:(https://www.instagram.com/sujinram04?igsh=bmRuM3cwcTlvMGhv)
+- [Instagram](https://www.instagram.com/sujinram04?igsh=bmRuM3cwcTlvMGhv)
 
 ---
 
