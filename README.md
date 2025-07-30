@@ -27,6 +27,6 @@
 
 ---
 
-
+> “Art and code are both ways to create something beautiful.”
 
 Thanks for visiting! 🚀
